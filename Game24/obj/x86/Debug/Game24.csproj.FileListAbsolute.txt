@@ -1,0 +1,15 @@
+C:\Users\KaltrinI\AppData\Local\Temporary Projects\Game24\bin\Debug\Game24.exe
+C:\Users\KaltrinI\AppData\Local\Temporary Projects\Game24\bin\Debug\Game24.pdb
+C:\Users\KaltrinI\AppData\Local\Temporary Projects\Game24\obj\x86\Debug\Game24.Form1.resources
+C:\Users\KaltrinI\AppData\Local\Temporary Projects\Game24\obj\x86\Debug\Game24.Properties.Resources.resources
+C:\Users\KaltrinI\AppData\Local\Temporary Projects\Game24\obj\x86\Debug\Game24.csproj.GenerateResource.Cache
+C:\Users\KaltrinI\AppData\Local\Temporary Projects\Game24\obj\x86\Debug\Game24.exe
+C:\Users\KaltrinI\AppData\Local\Temporary Projects\Game24\obj\x86\Debug\Game24.pdb
+C:\Users\KaltrinI\documents\visual studio 2010\Projects\Game24\Game24\obj\x86\Debug\Game24.exe
+C:\Users\KaltrinI\documents\visual studio 2010\Projects\Game24\Game24\obj\x86\Debug\Game24.pdb
+C:\Users\KaltrinI\documents\visual studio 2010\Projects\Game24\Game24\bin\Debug\Game24.exe
+C:\Users\KaltrinI\documents\visual studio 2010\Projects\Game24\Game24\bin\Debug\Game24.pdb
+C:\Users\KaltrinI\documents\visual studio 2010\Projects\Game24\Game24\obj\x86\Debug\Game24.Form1.resources
+C:\Users\KaltrinI\documents\visual studio 2010\Projects\Game24\Game24\obj\x86\Debug\Game24.Properties.Resources.resources
+C:\Users\KaltrinI\documents\visual studio 2010\Projects\Game24\Game24\obj\x86\Debug\Game24.csproj.GenerateResource.Cache
+C:\Users\KaltrinI\documents\visual studio 2010\Projects\Game24\Game24\obj\x86\Debug\Game24.csprojResolveAssemblyReference.cache
